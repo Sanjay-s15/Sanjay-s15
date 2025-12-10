@@ -2,7 +2,7 @@
 
 Senior Web Developer @ SparkTech Digital Marketing
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://sanjayportfolio15.netlify.app/])                                                 
+- 🔭 Here's my [portfolio](https://sanjayportfolio15.netlify.app/)                                                 
 - 🌱 I’m currently learning Node.js and Express.js to become a fullstack developer
 - IT Student at Jeppiaar Institute of Technology
 - ⚡ Fun fact: I know Japanese.
